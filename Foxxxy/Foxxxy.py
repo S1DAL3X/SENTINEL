@@ -1,3 +1,5 @@
+#python 3.7.7
+#by S1DAL3X
 import os
 import discord
 import json
