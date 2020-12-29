@@ -1,2 +1,2 @@
 # SENTINEL
-Sentinel implants kit
+<b>Sentinel implants kit</b>
