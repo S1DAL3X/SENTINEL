@@ -1,2 +1,2 @@
 # SENTINEL
-<b>Sentinel implants kit</b>
+<b>Sentinel - это набор инструментов(имплантов) для пентестинга и открытой разведки</b>
