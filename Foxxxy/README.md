@@ -1,7 +1,7 @@
 <h3>
-name: Foxxxy<br>
-lang: python 3.7.7<br>
-implant-level: eazy<br>
+name:           Foxxxy<br>
+lang:           python 3.7.7<br>
+implant-level:  eazy<br>
 </h3>
 <h3>Foxxxy - это бот-прослушка для голосовых каналов Discord</h3>
 При подключении бота к каналу бот имеет следующие функции:<br>
