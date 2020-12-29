@@ -1,3 +1,5 @@
+#python 3.7.7
+#by S1DAL3X
 import time, subprocess
 from bs4 import BeautifulSoup  
 from urllib.request import urlopen 
